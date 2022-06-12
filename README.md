@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Studying
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=black"/>
+
+
+
+
 <!--
 **mhson-stack/mhson-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
